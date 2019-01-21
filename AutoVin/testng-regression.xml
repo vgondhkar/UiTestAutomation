@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testng-Regression">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.vin.auto.learn.TestForJenkins"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Testng-Regression -->
